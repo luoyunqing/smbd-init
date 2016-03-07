@@ -1,0 +1,2 @@
+# smbd-init
+first pro
